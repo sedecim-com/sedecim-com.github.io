@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.822e76cc.css",
+    "main.js": "/static/js/main.eaa773e3.js",
+    "static/media/banner_home.jpg": "/static/media/banner_home.a4131ee6c68e0da3b38e.jpg",
+    "static/media/banner-2_azul.jpg": "/static/media/banner-2_azul.12c7e74518c1691c067d.jpg",
+    "static/media/banner_home_mobile.jpg": "/static/media/banner_home_mobile.5bc10b81adeb10fdc5e5.jpg",
+    "static/media/banner_oficinas_mobile.jpg": "/static/media/banner_oficinas_mobile.d12b799ad85cf4592517.jpg",
+    "static/media/banner_login.jpg": "/static/media/banner_login.b02ecffb28e93c95e6a6.jpg",
+    "static/media/adf.jpg": "/static/media/adf.ae300270d517f14ecde0.jpg",
+    "static/media/icon_white.png": "/static/media/icon_white.355e4e5c10b65c2a6d2e.png",
+    "static/media/promess logo blue.svg": "/static/media/promess logo blue.a2fecd4a5a7bd329939759782c1d7cf5.svg",
+    "static/media/promess logo.svg": "/static/media/promess logo.863f08f303e987f3d5b13f4cbaf682d4.svg",
+    "static/media/icon.svg": "/static/media/icon.c17516e48a5c39a4e2773b08cf1cfe6c.svg",
+    "index.html": "/index.html",
+    "main.822e76cc.css.map": "/static/css/main.822e76cc.css.map",
+    "main.eaa773e3.js.map": "/static/js/main.eaa773e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.822e76cc.css",
+    "static/js/main.eaa773e3.js"
+  ]
+}

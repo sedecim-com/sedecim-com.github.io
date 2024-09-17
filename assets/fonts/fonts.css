@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'SourceSansPro';
+    src: url('/assets/fonts/SourceSansPro-BlackIt.otf') format('opentype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SourceSansPro';
+    src: url('/assets/fonts/SourceSansPro-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceSansPro';
+    src: url('/assets/fonts/SourceSansPro-BoldIt.otf') format('opentype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SourceSansPro';
+    src: url('/assets/fonts/SourceSansPro-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceSansPro';
+    src: url('/assets/fonts/SourceSansPro-Semibold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+body {
+    font-family: 'SourceSansPro', sans-serif;
+}
